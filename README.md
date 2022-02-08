@@ -2,4 +2,4 @@
 
 # About-us page for Feedo
 
-# (work in progress)
+# (work is in progress)
