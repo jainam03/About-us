@@ -1,6 +1,6 @@
 body {
     background-color: lightblue;
-      
+    margin-bottom: 700px;     
     
 }
 
@@ -12,7 +12,17 @@ header {
     color: darkorange;
 }
 
-#para {
+#newhead {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    font-size: 25px;
+    color: darkorange; 
+    
+}
+
+
+#container1 {
     font-size: 25px;
     font-family: 'Comic Sans MS';
     font-weight: bold;
@@ -23,3 +33,43 @@ header {
     margin-left: 130px;
     margin-right: 130px;
 }
+
+#name  {
+    border-radius: 18px;
+    padding: 15px;
+    width: 200px;
+    height: 10px;
+    background-color: lightblue;
+    color: blue;
+
+    font-size: 20px;
+    font-weight: bold;
+    font-style: 'Comic Sans MS';
+}
+
+#email {
+    border-radius: 18px;
+    padding: 15px;
+    width: 200px;
+    height: 10px;
+    background-color: lightblue;
+    color: blue;
+
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+#message {
+    border-radius: 18px;
+    padding: 15px;
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    color: blue;
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
