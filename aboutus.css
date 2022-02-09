@@ -1,13 +1,16 @@
 body {
-     background-color: rgb(168, 204, 39);
+     background-color: rgb(204, 201, 39);
    /*background-color: rgba(23, 233, 107, 0.92);*/
-    margin-bottom: 8px;     
+    margin-bottom: 80px; 
+    
+    text-align: center;
+    font-size: 30px;
     
 }
 
 header {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Comic Sans MS';
     text-decoration: underline;
     font-size: 25px;
     color: blue;
@@ -15,7 +18,7 @@ header {
 
 #newhead {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Comic Sans MS';
     text-decoration: underline;
     font-size: 25px;
     color: blue; 
@@ -110,7 +113,7 @@ input {
 
     width: 130px;
     padding: auto;
-    margin: 70px auto;
+    margin: 40px;
 
     padding-top: 2px;
     padding-bottom: 2px;
@@ -118,6 +121,8 @@ input {
     font-family: 'Comic Sans MS';
     color: blue;
 }
+
+
 
 
 
