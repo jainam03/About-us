@@ -30,7 +30,7 @@ header {
     font-size: 25px;
     font-family: 'Comic Sans MS';
     font-weight: bold;
-    text-align: auto;
+    text-align: left;
     color: blue;
     
 
@@ -83,11 +83,12 @@ input {
     font-family: 'Comic Sans MS';
     opacity: 900%;
     border-style: ridge;
+    background-color: antiquewhite;
 }
 
 #para1 {
     text-align: center;
-    font-size: 180%;
+    font-size: 135%;
 }
 
 #container2 {
