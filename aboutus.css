@@ -1,6 +1,7 @@
 body {
-    background-color: lightblue;
-    margin-bottom: 700px;     
+     background-color: rgb(168, 204, 39);
+   /*background-color: rgba(23, 233, 107, 0.92);*/
+    margin-bottom: 8px;     
     
 }
 
@@ -9,7 +10,7 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: underline;
     font-size: 25px;
-    color: darkorange;
+    color: blue;
 }
 
 #newhead {
@@ -17,7 +18,7 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: underline;
     font-size: 25px;
-    color: darkorange; 
+    color: blue; 
     
 }
 
@@ -32,6 +33,7 @@ header {
 
     margin-left: 130px;
     margin-right: 130px;
+    
 
     align-items: center;
 }
@@ -41,7 +43,7 @@ header {
     padding: 15px;
     width: 200px;
     height: 10px;
-    background-color: lightblue;
+    
     color: blue;
 
     font-size: 20px;
@@ -54,7 +56,7 @@ header {
     padding: 15px;
     width: 200px;
     height: 10px;
-    background-color: lightblue;
+    
     color: blue;
 
     font-size: 20px;
@@ -67,25 +69,56 @@ header {
     padding: 15px;
     width: 200px;
     height: 100px;
-    background-color: lightblue;
+    
     color: blue;
 
     font-size: 20px;
     font-weight: bold;
 }
 
+input {
+    font-family: 'Comic Sans MS';
+    opacity: 900%;
+    border-style: ridge;
+}
+
 #para1 {
     text-align: center;
-    font-size: 200%;
+    font-size: 180%;
 }
 
 #container2 {
     text-align: center;
-    border-radius: 320px;
+    
+    background-color: lightblue;
+
+    align-items: center;
+
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    border-radius: 20px;
 }
 
 #sendbtn {
-    align-items: center;
+    border-radius: 50px;
+    font-size: x-large;
+    font-style: 'Comic Sans MS';
+    
+    font-weight: bold;
+
+    width: 130px;
+    padding: auto;
+    margin: 70px auto;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+    font-family: 'Comic Sans MS';
+    color: blue;
 }
+
+
 
 
