@@ -1,5 +1,5 @@
 body {
-     background-color: rgb(204, 201, 39);
+     background-color: rgba(40, 191, 239, 0.47);
    /*background-color: rgba(23, 233, 107, 0.92);*/
     margin-bottom: 80px; 
     
@@ -94,7 +94,7 @@ input {
 #container2 {
     text-align: center;
     
-    background-color: lightblue;
+    background-color: rgb(165, 97, 228);
 
     align-items: center;
 
