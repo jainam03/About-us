@@ -1,5 +1,7 @@
 body {
     background-color: lightblue;
+      
+    
 }
 
 header {
@@ -7,6 +9,7 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: underline;
     font-size: 25px;
+    color: darkorange;
 }
 
 #para {
@@ -14,6 +17,7 @@ header {
     font-family: 'Comic Sans MS';
     font-weight: bold;
     text-align: auto;
+    color: blue;
     
 
     margin-left: 130px;
