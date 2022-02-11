@@ -41,6 +41,10 @@ header {
     align-items: center;
 }
 
+label {
+   display: inline-block; 
+}
+
 #name  {
     border-radius: 18px;
     padding: 15px;
@@ -68,7 +72,7 @@ header {
 }
 
 #message {
-    border-radius: 18px;
+    border-radius: 9px;
     padding: 15px;
     width: 200px;
     height: 100px;
@@ -83,7 +87,11 @@ input {
     font-family: 'Comic Sans MS';
     opacity: 900%;
     border-style: ridge;
-    background-color: antiquewhite;
+    
+    
+    display: inline-block;
+    /*background-color: antiquewhite;*/
+    
 }
 
 #para1 {
@@ -94,7 +102,7 @@ input {
 #container2 {
     text-align: center;
     
-    background-color: rgb(165, 97, 228);
+    background-color: white;
 
     align-items: center;
 
@@ -122,6 +130,7 @@ input {
     font-family: 'Comic Sans MS';
     color: blue;
 }
+
 
 
 

@@ -59,21 +59,27 @@
 
             <span>
 
-                <label for="name">Name: </label>
+                <label>Name: </label>
                 <input type="text" name="thename" id="name">
 
 
-                <label for="email">Mail-ID: </label>
+                <label>Mail-ID: </label>
                 <input type="text" name="themail" id="email">
 
             </span>
 
+            
             <br> <br>
+            <span>
+            <label>Your message: </label>
+            <!--<input type="text" name="themessage" id="message" rows="4" cols="50">-->
+            
+            <textarea name="message" id="message" cols="30" rows="15"></textarea>
 
-            <label for="message">Your message: </label>
-            <input type="text" name="themessage" id="message">
+            
+            </span>
+
             <br> <br>
-
             <button id="sendbtn" onclick="send()"> SEND </button>
 
             <br> 
